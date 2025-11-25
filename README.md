@@ -1,4 +1,12 @@
-# Hi there 👋
+# 👋Hi there I'm hiro
+
+## 🚀 About me
+- Aspiring back-end and cloud engineers
+- Focus on learning Python, AWS, and Docker
+- Participating in team development and hackathons
+
+## 🌱 Skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,react,next,figma,python,docker,aws" />
 
 ## 📊 GitHub Stats
 <p align="left">
