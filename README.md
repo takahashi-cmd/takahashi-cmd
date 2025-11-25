@@ -10,13 +10,13 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takahashi-cmd&theme=onedark&column=7" />
-  <img src="https://github-readme-stats.vercel.app/api?username=takahashi-cmd&theme=onedark&column=7" />
+  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api/top-langs/?username=takahashi-cmd&layout=donut-vertical&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api?username=takahashi-cmd&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🏆 GitHub Profile Trophy
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=takahashi-cmd&theme=onedark&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=takahashi-cmd&theme=tokyonight" />
 </p>
 
 <!--
