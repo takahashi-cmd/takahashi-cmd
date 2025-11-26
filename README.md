@@ -1,4 +1,10 @@
-# 👋Hi there I'm hiro
+<!-- アニメーション見出し -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=500&color=6AE3FF&center=true&vCenter=true&width=700&height=70&lines=Hi+there%2C+I'm+hiro!;Welcome+to+my+GitHub+profile!" />
+</p>
+
+<!-- Wave Header -->
+<img src="https://raw.githubusercontent.com/takahashi-cmd/takahashi-cmd/main/assets/header.svg" width="100%" />
 
 ## 🚀 About me
 - Aspiring back-end and cloud engineers
@@ -17,6 +23,11 @@
 ## 🏆 GitHub Profile Trophy
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=takahashi-cmd&theme=tokyonight" />
+</p>
+
+## 🐍 Contribution Snake
+<p align="left">
+  <img src="https://raw.githubusercontent.com/takahashi-cmd/takahashi-cmd/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!--
