@@ -1,0 +1,23 @@
+<svg viewBox="0 0 1200 200" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="none">
+  <style>
+    .wave {
+      animation: waveAnimation 6s infinite linear;
+    }
+    @keyframes waveAnimation {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+  </style>
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4c79ff;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#6ae3ff;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <g class="wave">
+    <path d="M0,100 C300,0 900,200 1200,100 L1200,200 L0,200 Z" fill="url(#grad)"/>
+    <path d="M0,120 C300,20 900,220 1200,120 L1200,200 L0,200 Z" fill="rgba(255,255,255,0.3)"/>
+  </g>
+</svg>
