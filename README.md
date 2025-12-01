@@ -4,7 +4,7 @@
 </p>
 
 <!-- Wave Header -->
-<img src="https://raw.githubusercontent.com/takahashi-cmd/takahashi-cmd/main/assets/header.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/hiro-53-RareTECH/hiro-53-RareTECH/main/assets/header.svg" width="100%" />
 
 ## 🚀 About me
 - Aspiring back-end and cloud engineers
@@ -16,22 +16,22 @@
 
 ## 📊 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api/top-langs/?username=takahashi-cmd&layout=donut-vertical&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api?username=takahashi-cmd&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api/top-langs/?username=hiro-53-RareTECH&layout=donut-vertical&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-blush-seven-34.vercel.app/api?username=hiro-53-RareTECH&show_icons=true&theme=tokyonight" />
 </p>
 
 ## 🏆 GitHub Profile Trophy
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=takahashi-cmd&theme=tokyonight" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hiro-53-RareTECH&theme=tokyonight" />
 </p>
 
 ## 🐍 Contribution Snake
 <p align="left">
-  <img src="https://raw.githubusercontent.com/takahashi-cmd/takahashi-cmd/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/hiro-53-RareTECH/hiro-53-RareTECH/output/github-contribution-grid-snake.svg" />
 </p>
 
 <!--
-**takahashi-cmd/takahashi-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hiro-53-RareTECH/hiro-53-RareTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
